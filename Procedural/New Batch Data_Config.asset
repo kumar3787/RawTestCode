@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3c62fff51842204796d089fd8d5c16e, type: 3}
+  m_Name: New Batch Data_Config
+  m_EditorClassIdentifier: 
+  testArray:
+  - {fileID: 2800000, guid: 3f2eecefbf7d5f44984eb80814ae8f24, type: 3}
+  - {fileID: 2800000, guid: 2d88a8a58b86d3c42a673e1d9034409a, type: 3}
+  - {fileID: 2800000, guid: ea1e2578b9b1cc2498accc121b043e0f, type: 3}
+  - {fileID: 2800000, guid: 77a24ca2d6791064da084e1c5db814b6, type: 3}
+  testTexArray:
+  - m_Name: TestName
+    m_TexArray: {fileID: 18700000, guid: b132887eb58c3464fa4f86bce8a13db6, type: 2}
